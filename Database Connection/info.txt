@@ -1,0 +1,1 @@
+This folder contain codes for establishing connection between MySQL server & project.
